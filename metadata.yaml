@@ -1,0 +1,31 @@
+_repo: Caesar-Rodney-s-Ride_28051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlton, Henry Fisk
+    gutenberg_agent_id: '32649'
+    url: http://www.gutenberg.org/2009/agents/32649
+  editor:
+    agent_name: Zyve, Claire Turner
+    alias: Zyve, Claire T.
+    birthdate: 1895
+    gutenberg_agent_id: '32650'
+    url: http://www.gutenberg.org/2009/agents/32650
+description: ''
+gutenberg_issued: '2009-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rodney, Caesar, 1728-1784 -- Drama'
+- !lcsh 'Radio plays'
+- !lcc 'PN'
+title: Caesar Rodney's Ride
+url: http://www.gutenberg.org/ebooks/28051
